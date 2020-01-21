@@ -1,0 +1,11 @@
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.exe
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.deps.json
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.runtimeconfig.json
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.runtimeconfig.dev.json
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.dll
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\bin\Debug\netcoreapp3.1\Lab 2.1.pdb
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.csprojAssemblyReference.cache
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.AssemblyInfoInputs.cache
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.AssemblyInfo.cs
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.dll
+C:\Users\oomishope\OneDrive - Knex\Documents\DevBuild\Lab 2.1\Lab 2.1\obj\Debug\netcoreapp3.1\Lab 2.1.pdb
